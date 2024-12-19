@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Allura';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/allura/v21/9oRPNYsQpS4zjuA_iwgT.ttf) format('truetype');
+}

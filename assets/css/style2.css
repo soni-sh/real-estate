@@ -1,0 +1,25 @@
+.price-colm{background:#fff;padding:30px;text-align:center;position:relative;min-height:375px; margin: 15px 0;}
+.price-colm h4{color:#000;font-weight:600;text-transform:uppercase;font-size:20px;margin:20px 0}
+.price-colm a{display:block;background:#b6780b;color:#fff;text-align:center;margin-top:8px;padding:10px 0;position:absolute;bottom:0;left:0;width:100%;font-size:20px;text-transform:uppercase;font-weight:600;text-decoration:none}
+.price-colm h4 span{display:block;margin-top:8px;font-size:22px;color:#b6780b}
+section#price-list .separator{margin-bottom:50px}
+.banner-offer{position:absolute;bottom:0;left:0;width:50%;text-align:center;background:#fff}
+.banner-offer h2{margin:0;padding:10px 15px;color:#000;font-size:25px}
+.banner-offer{position:absolute;bottom:50px;left:50px;width:fit-content;text-align:center;background:#fff;letter-spacing:2px}
+.banner-offer.banner-img{padding:0;width:40%;bottom:30px;left:75px}
+.highlights-sec .box-number p{padding-top:12px;margin-bottom:40px}
+.highlights-sec .box-number .number{font-size:30px;width:50px;height:50px;padding:12px 0}
+.highlights-sec .box-number .text{margin-left:70px}
+.banner-left.banner-left-sec{padding-top:40px!important}
+.banner-left ul li strong span{display:block}
+.banner-offer h2 span{display:block;color:#b6780b}
+.trumptower-price .price-colm{height:450px}
+.banner-offer.inline-image li{display:inline-block;list-style:none;float:left;width:25%}
+.banner-offer.inline-image ul{padding:0;margin:0}
+.banner-offer.inline-image{width:86%;text-align:left;left:30px}
+.banner-offer.inline-image li img{width:100%}
+.col-sm-6.banner-left.bg-black{background:#000}
+@media (max-width:767px) {
+.banner-offer{width:100%}
+.banner-offer.inline-image{width:100%}
+}
